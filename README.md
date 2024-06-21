@@ -36,7 +36,5 @@ The project involves the following steps:
 
 ## Results
 **Audio Samples**
-Listen to the generated jazz solos:
-<center>
+Scan the QR Code and listen to the generated jazz solo:
 <img src="output\frame.png" style="width:200px;">
-</center>
