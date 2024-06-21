@@ -1,7 +1,6 @@
-# 🎷 Improvise a Jazz Solo with an LSTM Network 🎶
+# 🎶 Improvise a Jazz Solo with an LSTM Network 🎶
 
-## Introduction
-Welcome to the **Improvise a Jazz Solo with an LSTM Network** project! This repository demonstrates the use of a Long Short-Term Memory (LSTM) network to generate jazz music solos. This project builds upon existing work.
+Welcome to the **Improvise a Jazz Solo with an LSTM Network** project! This repository demonstrates the use of a Long Short-Term Memory **(LSTM)** network to generate jazz music solos. This project builds upon existing work.
 
 ![Deep Learning](https://img.shields.io/badge/Skill-Deep%20Learning-yellow)
 ![Sequence Modeling](https://img.shields.io/badge/Skill-Sequence%20Modeling-blueviolet)
@@ -33,6 +32,10 @@ The project involves the following steps:
 - **Data Preparation:** Preparing musical data for training using existing utilities.
 - **Model Training:** Building and training the LSTM network with my modifications.
 - **Music Generation:** Generating new jazz solos using the trained model.
+
+**Training Loss**
+Below is the plot of the training loss, showing how the model improved over time:
+<img src="images\image.png" style="width:400px;">
 
 ## Results
 **Audio Samples**
