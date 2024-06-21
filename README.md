@@ -37,5 +37,6 @@ The project involves the following steps:
 ## Results
 **Audio Samples**
 Listen to the generated jazz solos:
-
-<img src="output\frame.png" style="width:150;">
+<center>
+<img src="output\frame.png" style="width:200px;">
+</center>
