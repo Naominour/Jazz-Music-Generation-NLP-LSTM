@@ -22,11 +22,11 @@ jupyter notebook Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb
 **Install Dependencies:**
 ```bash
 pip install -r requirements.txt
-
+```
 **Run the Jupyter Notebook:**
 ```bash
 git clone https://github.com/yourusername/jazz-solo-lstm.git
-
+```
 ## Implementation
 The project involves the following steps:
 
