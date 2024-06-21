@@ -38,4 +38,4 @@ The project involves the following steps:
 **Audio Samples**
 Listen to the generated jazz solos:
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://soundcloud.com/naeeme-noormohamadi/gaz-music?si=e5c6754808ff48c18d24b9c8e0a606b8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"></iframe>
+<img src="output\frame.png" style="width:150;">
