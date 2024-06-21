@@ -35,9 +35,11 @@ The project involves the following steps:
 
 **Training Loss**
 Below is the plot of the training loss, showing how the model improved over time:
+
 <img src="images\image.png" style="width:400px;">
 
 ## Results
 **Audio Samples**
 Scan the QR Code and listen to the generated jazz solo:
+
 <img src="output\frame.png" style="width:200px;">
