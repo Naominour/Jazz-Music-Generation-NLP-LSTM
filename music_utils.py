@@ -1,3 +1,12 @@
+'''
+Author:     Ji-Sung Kim, Evan Chow
+Project:    jazzml / (used in) deepjazz
+Purpose:    Extract, manipulate, process musical grammar
+
+Directly taken then cleaned up from Evan Chow's jazzml, 
+https://github.com/evancchow/jazzml,with permission.
+'''
+
 from __future__ import print_function
 import tensorflow as tf
 #import tensorflow.keras.backend as K
