@@ -1,14 +1,44 @@
-# A Deep Learning Approach to Jazz Music Generation
-Have you ever wished you could collaborate with the greats of jazz history? With DeepJazz, you can! This Python project harnesses the power of deep learning to generate original and creative jazz compositions, allowing you to jam with an AI that has learned from the masters.
+# 🎷 Improvise a Jazz Solo with an LSTM Network 🎶
 
-## Features
+## Introduction
+Welcome to the **Improvise a Jazz Solo with an LSTM Network** project! This repository demonstrates the use of a Long Short-Term Memory (LSTM) network to generate jazz music solos. This project builds upon existing work.
 
-- **Data Preprocessing**: We've got the beat! DeepJazz can efficiently process MIDI files and convert them into a format that our deep learning models can understand.
-- **Model Architecture**: The heart of DeepJazz is its deep learning architecture, which includes Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks – fancy terms for really cool tech that can learn patterns in music.
-- **Music Generation**: With a few lines of code, DeepJazz can create brand new jazz compositions that will have you grooving.
-- **Pruning and Cleanup**: We've got your back! DeepJazz includes utility functions to ensure the generated music adheres to standard note lengths and removes any repeated or overlapping notes.
-- **Rendering**: Once DeepJazz has worked its magic, it can convert the generated music into MIDI files, so you can listen to your AI-generated masterpieces.
+![Deep Learning](https://img.shields.io/badge/Skill-Deep%20Learning-yellow)
+![Sequence Modeling](https://img.shields.io/badge/Skill-Sequence%20Modeling-blueviolet)
+![Generative Models](https://img.shields.io/badge/Skill-Generative%20Models-green)
+![Model Training and Evaluation](https://img.shields.io/badge/Skill-Model%20Training%20and%20Evaluation-orange)
+![Python Programming](https://img.shields.io/badge/Skill-Python%20Programming-brightgreen)
 
-## Acknowledgements
-https://www.coursera.org/learn/nlp-sequence-models
-https://www.deeplearning.ai/program/deep-learning-specialization/
+## Key Features
+- **Deep Learning**: Utilise an LSTM network for music generation.
+- **Sequence Modeling**: Handle time series data and sequences effectively.
+- **Generative Models**: Create new jazz solos based on learned patterns.
+- **Music Processing**: Use the Music21 library for musical data manipulation.
+## Usage
+**Clone the Repository:**
+```bash
+jupyter notebook Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb
+
+**Install Dependencies:**
+```bash
+pip install -r requirements.txt
+
+**Run the Jupyter Notebook:**
+```bash
+git clone https://github.com/yourusername/jazz-solo-lstm.git
+
+## Implementation
+The project involves the following steps:
+
+- **Data Preparation:**: Preparing musical data for training using existing utilities.
+- **Model Training:**: Building and training the LSTM network with my modifications.
+- **Music Generation:**: Generating new jazz solos using the trained model.
+
+##Results
+**Audio Samples**
+Listen to the generated jazz solos:
+
+<audio controls>
+  <source src="ttps://raw.githubusercontent.com/naeimehnour/Jazz-Music-Generation/main/output/rendered.wav" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
