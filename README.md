@@ -30,15 +30,15 @@ git clone https://github.com/yourusername/jazz-solo-lstm.git
 ## Implementation
 The project involves the following steps:
 
-- **Data Preparation:**: Preparing musical data for training using existing utilities.
-- **Model Training:**: Building and training the LSTM network with my modifications.
-- **Music Generation:**: Generating new jazz solos using the trained model.
+- **Data Preparation:** Preparing musical data for training using existing utilities.
+- **Model Training:** Building and training the LSTM network with my modifications.
+- **Music Generation:** Generating new jazz solos using the trained model.
 
-##Results
+## Results
 **Audio Samples**
 Listen to the generated jazz solos:
 
 <audio controls>
-  <source src="ttps://raw.githubusercontent.com/naeimehnour/Jazz-Music-Generation/main/output/rendered.wav" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/naeimehnour/Jazz-Music-Generation/main/data/30s_trained_model.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
