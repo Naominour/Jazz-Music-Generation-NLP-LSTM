@@ -38,7 +38,4 @@ The project involves the following steps:
 **Audio Samples**
 Listen to the generated jazz solos:
 
-<audio controls>
-  <source src="https://raw.githubusercontent.com/naeimehnour/Jazz-Music-Generation/main/data/30s_trained_model.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://soundcloud.com/naeeme-noormohamadi/gaz-music?si=e5c6754808ff48c18d24b9c8e0a606b8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"></iframe>
