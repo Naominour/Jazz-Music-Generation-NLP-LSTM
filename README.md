@@ -18,7 +18,7 @@ Welcome to the **Improvise a Jazz Solo with an LSTM Network** project! This repo
 **Clone the Repository:**
 ```bash
 jupyter notebook Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb
-
+```
 **Install Dependencies:**
 ```bash
 pip install -r requirements.txt
