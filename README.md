@@ -11,9 +11,15 @@ Welcome to the **Improvise a Jazz Solo with an LSTM Network** project! This repo
 ## Project Overview
 This project is organised into multiple Python scripts and a Jupyter Notebook. The main components of the project include data preparation, model training, and music generation. Below is the detailed file structure and the corresponding functionalities:
 
-**Deep Learning**
+## Frameworks and Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16.1-orange.svg?style=flat&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-3.3.3-red.svg?style=flat&logo=keras)
+![Music21](https://img.shields.io/badge/Music21-v6.1-blue.svg?style=flat&logo=music21)
+![NumPy](https://img.shields.io/badge/NumPy-1.26.4-blue.svg?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-2.2.2-yellow.svg?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.6.2-green.svg?style=flat&logo=matplotlib)
+
 ```bash
-.
 ├── data_utils.py            # Utilities for data handling and preprocessing
 ├── generateTestCases.py     # Scripts to generate test cases for the model
 ├── grammar.py               # Grammar rules for music processing
@@ -26,15 +32,6 @@ This project is organised into multiple Python scripts and a Jupyter Notebook. T
 ├── test_utils.py            # Testing utilities for model validation
 └── Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb  # Main notebook for the project
 ```
-
-
-## Frameworks and Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16.1-orange.svg?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-3.3.3-red.svg?style=flat&logo=keras)
-![Music21](https://img.shields.io/badge/Music21-v6.1-blue.svg?style=flat&logo=music21)
-![NumPy](https://img.shields.io/badge/NumPy-1.26.4-blue.svg?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-2.2.2-yellow.svg?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.6.2-green.svg?style=flat&logo=matplotlib)
 
 ## Project Architecture
 1. **Data Preparation**:
