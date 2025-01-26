@@ -1,4 +1,4 @@
-# 🎶 Improvise a Jazz Solo with an LSTM Network 🎶
+# 🎶 AI-Powered Jazz: Generating Solos with LSTM Networks 🎶
 
 Welcome to the **Improvise a Jazz Solo with an LSTM Network** project! This repository demonstrates the use of a Long Short-Term Memory **(LSTM)** network to generate jazz music solos. This project builds upon existing work, incorporating enhancements and additional functionalities.
 
